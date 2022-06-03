@@ -2,5 +2,5 @@
 
 Aqui você encontrará:
 - Projetos desenvolvidos na escola;
-- Projetos desenvolvidos através de parcerias de fora;
-- Atividades resolvidas, que foram passadas durante o periodo de uma determinada linguagem.
+- Projetos desenvolvidos através de parcerias com outras empresas;
+- Algumas atividades resolvidas no meu último ano na escola.
