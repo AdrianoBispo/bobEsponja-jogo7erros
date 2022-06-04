@@ -2,5 +2,5 @@
 
 Aqui você encontrará:
 - Projetos desenvolvidos na escola;
-- Projetos desenvolvidos através de parcerias com outras empresas;
-- Algumas atividades resolvidas no meu último ano na escola.
+- Projetos desenvolvidos na escola em parcerias com outras empresas;
+- <b>Algumas atividades</b> resolvidas no meu último ano na escola.
