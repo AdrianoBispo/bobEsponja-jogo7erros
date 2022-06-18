@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins&display=swap');
+ 
+.devs{
+    color: #58508d;
+    display: block;
+    font-size: 16px;
+    margin: 5px auto 10px 0;
+    justify-content: right;
+}
+ 
+ion-header {
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.text-size {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto 10px auto;
+  font-size: 23px;
+}
+ 
+.hr:not(.text-size) {
+    width: 100%;
+    --padding-start: none;
+}
+ 
+.image {
+    display: flex;
+    min-width: 40px;
+    align-items: center;
+    justify-content: center;
+    max-block-size: 180px;
+    margin: 10px auto 15px auto;
+ 
+    display: grid;
+    place-items: center;
+}
+ 
+ion-title, ion-label, ion-button, .text-size {
+    font-family: 'Poppins', sans-serif;
+}
+ 
+ion-title {
+    margin: 10px auto 0 0;
+    justify-content: left;
+    font-weight: bold;
+}
+ 
+ion-label {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto auto 5px auto;
+    font-weight: 600;
+    font-size: 18px;
+}
+ 
+ion-button {
+  font-weight: bold;
+}
+ 
+.bob {
+  margin: 20px auto 10px auto;
+  padding: 0;
+  min-width: 180px;
+  max-width: 75%;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 5px;
+  box-shadow: 0 0.5px 4px rgb(199, 199, 199);
+  background: linear-gradient(#e8df62, #f6a33e);
+}
+ 
+.patrick {
+    display: flex;
+    padding: 0;
+    flex-wrap: wrap;
+    margin: 20px auto 25px auto;
+    min-width: 180px;
+    max-width: 75%;
+    border-radius: 5px;
+    box-shadow: 0 0.5px 4px rgb(199, 199, 199);
+    background: linear-gradient(#f45698, #e3196a);
+}
+ 
+.reset {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 180px;
+    max-width: 40%;
+    --border-radius: 5px;
+    margin: 8px auto 0 auto;
+    justify-content: center;
+    align-items: center;
+}
