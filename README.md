@@ -1,6 +1,4 @@
 # ETE_Porto_Digital
 
-Aqui você encontrará:
-- Projetos desenvolvidos na escola;
-- Projetos desenvolvidos na escola em parcerias com outras empresas;
-- <b>Algumas atividades</b> resolvidas no meu último ano na escola.
+Este repositório é reservado apenas para projetos, e resoluções de atividades, 
+desenvolvidos na escola no periodo do meu 3° e último ano escolar. 
