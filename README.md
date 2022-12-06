@@ -1,4 +1,6 @@
-# ETE_Porto_Digital
+# Atividade de PNT2
 
-Este repositório é reservado apenas para projetos, e resoluções de atividades, 
-desenvolvidos na escola no periodo do meu 3° e último ano escolar. 
+A atividade consistia em achar 7 erros nos códigos de um mini-game do Bob Esponja.
+Essa atividade foi realizada em dupla com uma amiga de classe.
+
+Atividade realizada em 17 de junho de 2022.
